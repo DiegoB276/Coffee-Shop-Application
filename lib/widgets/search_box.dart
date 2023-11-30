@@ -10,7 +10,7 @@ class SearchBox extends StatelessWidget {
     return Container(
       height: MediaQuery.sizeOf(context).height * 0.07,
       decoration: BoxDecoration(
-        color: const Color.fromARGB(255, 232, 232, 232),
+        color: const Color.fromARGB(255, 243, 243, 243),
         borderRadius: BorderRadius.circular(20),
       ),
       child: const Padding(
